@@ -1,0 +1,1017 @@
+Index,Preferred_scientific_name,International_common_name,Plant_pest,Domain,Kingdon,Phylum,Class,Order,Family,Datasheet_URL
+0,Caulerpa taxifolia, killer algae, No, Eukaryota, Plantae, Chlorophyta, Bryopsidophyceae, Bryopsidales, Caulerpaceae, https://www.cabi.org/isc/datasheet/29292
+1,Codium fragile subsp. tomentosoides, , No, Eukaryota, Plantae, Chlorophyta, Bryopsidophyceae, Bryopsidales, Codiaceae, https://www.cabi.org/isc/datasheet/107769
+2,Ulva ohnoi, , No, Eukaryota, Plantae, Chlorophyta, Chlorophyceae, Ulvales, Ulvaceae, https://www.cabi.org/isc/datasheet/109162
+3,Ulva pertusa, , No, Eukaryota, Plantae, Chlorophyta, Chlorophyceae, Ulvales, Ulvaceae, https://www.cabi.org/isc/datasheet/108335
+4,Ulva reticulata, ribbon sea lettuce, No, Eukaryota, Plantae, Chlorophyta, Chlorophyceae, Ulvales, Ulvaceae, https://www.cabi.org/isc/datasheet/117717
+5,Prymnesium parvum, golden algae, No, Eukaryota, Plantae, Haptophyta, Prymnesiophyceae, , Prymnesiaceae, https://www.cabi.org/isc/datasheet/121720
+6,Pseudochattonella verruculosa, , No, Eukaryota, Plantae, Heterokontophyta, Dictyochophyceae, Florenciellales, , https://www.cabi.org/isc/datasheet/108305
+7,Sargassum muticum, wire weed, No, Eukaryota, Plantae, Phaeophyta, Phaeophyceae, Fucales, Sargassaceae, https://www.cabi.org/isc/datasheet/108973
+8,Undaria pinnatifida, Asian kelp, No, Eukaryota, Plantae, Phaeophyta, Phaeophyceae, Laminariales, Alariaceae, https://www.cabi.org/isc/datasheet/59979
+9,Adiantum hispidulum, rosy maidenhair fern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, Polypodiales, Pteridaceae, https://www.cabi.org/isc/datasheet/3236
+10,Adiantum raddianum, delta maidenhair fern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, Polypodiales, Pteridaceae, https://www.cabi.org/isc/datasheet/3237
+11,Angiopteris evecta, king fern, No, Eukaryota, Plantae, Pteridophyta, , , Marattiaceae, https://www.cabi.org/isc/datasheet/22973091
+12,Azolla cristata, , No, Eukaryota, Plantae, Pteridophyta, Filicopsida, , Azollaceae, https://www.cabi.org/isc/datasheet/121923
+13,Azolla filiculoides, water fern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, , Azollaceae, https://www.cabi.org/isc/datasheet/8119
+14,Blechnum appendiculatum, palm fern, No, Eukaryota, Plantae, Pteridophyta, Pteridopsida, , Blechnaceae, https://www.cabi.org/isc/datasheet/118974
+15,Christella dentata, soft fern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, , Thelypteridaceae, https://www.cabi.org/isc/datasheet/113279
+16,Cyathea cooperi, australian tree fern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, , Cyatheaceae, https://www.cabi.org/isc/datasheet/17261
+17,Cyclosorus parasiticus, parasitic maiden fern, Yes, Eukaryota, Plantae, Pteridophyta, Filicopsida, , Thelypteridaceae, https://www.cabi.org/isc/datasheet/120368
+18,Cyrtomium falcatum, Japanese holly fern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, , Dryopteridaceae, https://www.cabi.org/isc/datasheet/17203
+19,Deparia petersenii subsp. petersenii, Petersen’s lady fern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, , Dryopteridaceae, https://www.cabi.org/isc/datasheet/113835
+20,Diplazium esculentum, vegetable fern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, Polypodiales, Athyriaceae, https://www.cabi.org/isc/datasheet/93234022
+21,Equisetum arvense, field horsetail, Yes, Eukaryota, Plantae, Pteridophyta, Equisetopsida, , Equisetaceae, https://www.cabi.org/isc/datasheet/21621
+22,Lygodium japonicum, Japanese climbing fern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, , Schizaeaceae, https://www.cabi.org/isc/datasheet/31783
+23,Lygodium microphyllum, old world climbing fern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, , Schizaeaceae, https://www.cabi.org/isc/datasheet/110270
+24,Macrothelypteris torresiana, swordfern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, , Thelypteridaceae, https://www.cabi.org/isc/datasheet/115457
+25,Nephrolepis brownii, Asian swordfern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, , Nephrolepidaceae, https://www.cabi.org/isc/datasheet/115772
+26,Pteridium aquilinum, bracken, Yes, Eukaryota, Plantae, Pteridophyta, Pteridopsida, , Dennstaedtiaceae, https://www.cabi.org/isc/datasheet/45596
+27,Pteris tripartita, giant brake, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, Polypodiales, Pteridaceae, https://www.cabi.org/isc/datasheet/119836
+28,Pteris vittata, Chinese ladder brake fern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, Polypodiales, Pteridaceae, https://www.cabi.org/isc/datasheet/119837
+29,Salvinia auriculata, giant salvinia, Yes, Eukaryota, Plantae, Pteridophyta, Filicopsida, Hydropteridales, Salviniaceae, https://www.cabi.org/isc/datasheet/48444
+30,Salvinia minima, , No, Eukaryota, Plantae, Pteridophyta, Filicopsida, Hydropteridales, Salviniaceae, https://www.cabi.org/isc/datasheet/107785
+31,Salvinia molesta, kariba weed, Yes, Eukaryota, Plantae, Pteridophyta, Filicopsida, Hydropteridales, Salviniaceae, https://www.cabi.org/isc/datasheet/48447
+32,Thelypteris opulenta, jewelled maiden fern, No, Eukaryota, Plantae, Pteridophyta, Filicopsida, , Thelypteridaceae, https://www.cabi.org/isc/datasheet/119452
+33,Acanthophora spicifera, , No, Eukaryota, Plantae, Rhodophyta, Rhodophyceae, Ceramiales, Rhodomelaceae, https://www.cabi.org/isc/datasheet/107763
+34,Eucheuma spp., , No, Eukaryota, Plantae, Rhodophyta, Rhodophyceae, Gigartinales, Solieriaceae, https://www.cabi.org/isc/datasheet/102037
+35,Gracilaria salicornia, , No, Eukaryota, Plantae, Rhodophyta, Rhodophyceae, Gracilariales, Gracilariaceae, https://www.cabi.org/isc/datasheet/107771
+36,Grateloupia turuturu, , No, Eukaryota, Plantae, Rhodophyta, Florideophyceae, Halymeniales, Halymeniaceae, https://www.cabi.org/isc/datasheet/109142
+37,Hypnea musciformis, , No, Eukaryota, Plantae, Rhodophyta, Rhodophyceae, Gigartinales, Gigartinaceae, https://www.cabi.org/isc/datasheet/107773
+38,Kappaphycus, , No, Eukaryota, Plantae, Rhodophyta, Rhodophyceae, Gigartinales, Solieriaceae, https://www.cabi.org/isc/datasheet/100509
+39,Polysiphonia brodiei, , No, Eukaryota, Plantae, Rhodophyta, Rhodophyceae, Ceramiales, Rhodomelaceae, https://www.cabi.org/isc/datasheet/107751
+40,Abelmoschus moschatus, musk mallow, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/1951
+41,Abrus precatorius, rosary pea, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/1965
+42,Abutilon grandifolium, hairy Indian mallow, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/111972
+43,Abutilon hirtum, Indian mallow, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/119788
+44,Abutilon indicum, country mallow, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/1979
+45,Abutilon theophrasti, velvet leaf, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/1987
+46,Acacia angustissima, prairie acacia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2148
+47,Acacia auriculiformis, northern black wattle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2157
+48,Acacia confusa, , No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2191
+49,Acacia crassicarpa, northern wattle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2192
+50,Acacia cyclops, coastal wattle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2197
+51,Acacia dealbata, acacia bernier, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2207
+52,Acacia decurrens, green wattle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2208
+53,Acacia farnesiana, huisache, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2236
+54,Acacia longifolia, golden wattle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2312
+55,Acacia mangium, brown salwood, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2325
+56,Acacia mearnsii, black wattle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2326
+57,Acacia melanoxylon, Australian blackwood, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2329
+58,Acacia nilotica, gum arabic tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2342
+59,Acacia saligna, Port Jackson wattle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/2402
+60,Acanthospermum australe, spiny-bur, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/118957
+61,Acanthospermum hispidum, bristly starbur, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/2465
+62,Acer negundo, box elder, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Sapindales, Aceraceae, https://www.cabi.org/isc/datasheet/2862
+63,Acer platanoides, Norway maple, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Sapindales, Aceraceae, https://www.cabi.org/isc/datasheet/2883
+64,Acer pseudoplatanus, sycamore, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Sapindales, Aceraceae, https://www.cabi.org/isc/datasheet/2884
+65,Acer rufinerve, grey snake-bark maple, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Sapindales, Aceraceae, https://www.cabi.org/isc/datasheet/2889
+66,Achillea millefolium, yarrow, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/2636
+67,Achyranthes aspera, devil's horsewhip, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/2664
+68,Adenanthera pavonina, red-bead tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/3209
+69,Aeschynomene americana, shyleaf, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/3445
+70,Aeschynomene indica, Indian jointvetch, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/3451
+71,Agdestis clematidea, rockroot, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Phytolaccaceae, https://www.cabi.org/isc/datasheet/119791
+72,Ageratina adenophora, Croftonweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/23243
+73,Ageratina riparia, mistflower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/23251
+74,Ageratum conyzoides, billy goat weed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/3572
+75,Ageratum houstonianum, Blue billygoatweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/3573
+76,Ailanthus altissima, tree-of-heaven, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rutales, Simaroubaceae, https://www.cabi.org/isc/datasheet/3889
+77,Akebia quinata, five-leaf akebia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Ranunculales, Lardizabalaceae, https://www.cabi.org/isc/datasheet/3933
+78,Albizia chinensis, Chinese albizia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/3991
+79,Albizia julibrissin, silk tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/4005
+80,Albizia lebbeck, Indian siris, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/4008
+81,Albizia niopoides, silk tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/4014
+82,Albizia procera, white siris, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/4021
+83,Aleurites moluccanus, candlenut tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/4124
+84,Alhagi maurorum, camelthorn, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/4215
+85,Allamanda blanchetii, purple allamanda, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Apocynaceae, https://www.cabi.org/isc/datasheet/25980468
+86,Allamanda cathartica, yellow allamanda, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Apocynaceae, https://www.cabi.org/isc/datasheet/4098
+87,Alliaria petiolata, garlic mustard, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/3941
+88,Alnus glutinosa, European alder, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fagales, Betulaceae, https://www.cabi.org/isc/datasheet/4574
+89,Aloysia citrodora, lemon verbena, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Verbenaceae, https://www.cabi.org/isc/datasheet/112152
+90,Alternanthera philoxeroides, alligator weed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/4403
+91,Alternanthera sessilis, sessile joyweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/4404
+92,Alysicarpus vaginalis, alyce clover, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/8097
+93,Alyssum desertorum, desert madwort, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/112171
+94,Amaranthus blitum, livid amaranth, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/4648
+95,Amaranthus cruentus, red amaranth, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/4645
+96,Amaranthus dubius, spleen amaranth, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/4646
+97,Amaranthus hybridus, smooth pigweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/4643
+98,Amaranthus palmeri, Palmer amaranth, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/4649
+99,Amaranthus retroflexus, redroot pigweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/4652
+100,Amaranthus spinosus, spiny amaranth, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/4653
+101,Amaranthus tuberculatus, rough-fruited water-hemp, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/112200
+102,Amaranthus viridis, slender amaranth, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/4654
+103,Ambrosia artemisiifolia, common ragweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/4691
+104,Ambrosia confertiflora, , Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/120550
+105,Ambrosia psilostachya, perennial ragweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/4692
+106,Ambrosia tenuifolia, lacy ragweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/109862
+107,Ambrosia trifida, giant ragweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/4693
+108,Amelanchier lamarckii, snowy mespilus, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/4831
+109,Amelanchier spicata, dwarf serviceberry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/4836
+110,Amorpha fruticosa, false indigo-bush, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/5001
+111,Ampelopsis arborea, peppervine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rhamnales, Vitaceae, https://www.cabi.org/isc/datasheet/4814
+112,Anagallis arvensis, scarlet pimpernel, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Primulales, Primulaceae, https://www.cabi.org/isc/datasheet/5352
+113,Anethum graveolens, dill, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Apiales, Apiaceae, https://www.cabi.org/isc/datasheet/3472
+114,Annona cherimola, cherimoya, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Annonales, Annonaceae, https://www.cabi.org/isc/datasheet/5806
+115,Annona glabra, pond apple, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Annonales, Annonaceae, https://www.cabi.org/isc/datasheet/5811
+116,Annona muricata, soursop, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Annonales, Annonaceae, https://www.cabi.org/isc/datasheet/5812
+117,Annona reticulata, bullock's heart, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Annonales, Annonaceae, https://www.cabi.org/isc/datasheet/5816
+118,Annona squamosa, sugar apple, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Annonales, Annonaceae, https://www.cabi.org/isc/datasheet/5820
+119,Anredera baselloides, Madeira vine, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Basellaceae, https://www.cabi.org/isc/datasheet/120417
+120,Anredera cordifolia, Madeira vine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Basellaceae, https://www.cabi.org/isc/datasheet/112290
+121,Anthemis cotula, dog fennel, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/5672
+122,Antigonon leptopus, coral vine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygonales, Polygonaceae, https://www.cabi.org/isc/datasheet/112316
+123,Arceuthobium abietinum, fir dwarf mistletoe, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Santalales, Viscaceae, https://www.cabi.org/isc/datasheet/6823
+124,Arceuthobium americanum, lodgepole pine dwarf mistletoe, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Santalales, Viscaceae, https://www.cabi.org/isc/datasheet/6824
+125,Arceuthobium campylopodum, western dwarf misletoe, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Santalales, Viscaceae, https://www.cabi.org/isc/datasheet/6831
+126,Arceuthobium douglasii, Douglas-fir dwarf mistletoe, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Santalales, Viscaceae, https://www.cabi.org/isc/datasheet/6834
+127,Arceuthobium laricis, larch dwarf mistletoe, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Santalales, Viscaceae, https://www.cabi.org/isc/datasheet/6843
+128,Arceuthobium pusillum, eastern dwarf mistletoe, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Santalales, Viscaceae, https://www.cabi.org/isc/datasheet/6853
+129,Arceuthobium tsugense, hemlock dwarf mistletoe, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Santalales, Viscaceae, https://www.cabi.org/isc/datasheet/6857
+130,Arceuthobium vaginatum, southwestern dwarf mistletoe, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Santalales, Viscaceae, https://www.cabi.org/isc/datasheet/6859
+131,Arctotheca calendula, capeweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/6729
+132,Ardisia crenata, coral berry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Primulales, Primulaceae, https://www.cabi.org/isc/datasheet/119055
+133,Ardisia elliptica, shoebutton ardisia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Primulales, Primulaceae, https://www.cabi.org/isc/datasheet/108066
+134,Ardisia humilis, low shoebutton, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Primulales, Primulaceae, https://www.cabi.org/isc/datasheet/83558368
+135,Argemone mexicana, Mexican poppy, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Papaverales, Papaveraceae, https://www.cabi.org/isc/datasheet/6878
+136,Argemone ochroleuca, pale Mexican pricklypoppy, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Papaverales, Papaveraceae, https://www.cabi.org/isc/datasheet/112405
+137,Aristolochia elegans, elegant Dutchman’s pipe, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Aristolochiales, Aristolochiaceae, https://www.cabi.org/isc/datasheet/120156
+138,Aristolochia littoralis, elegant dutchman's pipe, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Aristolochiales, Aristolochiaceae, https://www.cabi.org/isc/datasheet/112423
+139,Aristolochia ringens, Dutchman’s pipe, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Aristolochiales, Aristolochiaceae, https://www.cabi.org/isc/datasheet/119795
+140,Aronia x prunifolia, , No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/108963
+141,Artemisia biennis, biennial wormwood, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/112441
+142,Artocarpus altilis, breadfruit, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Moraceae, https://www.cabi.org/isc/datasheet/1822
+143,Artocarpus heterophyllus, jackfruit, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Moraceae, https://www.cabi.org/isc/datasheet/1832
+144,Asclepias curassavica, bloodflower, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Asclepiadaceae, https://www.cabi.org/isc/datasheet/7248
+145,Asclepias syriaca, common milkweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Asclepiadaceae, https://www.cabi.org/isc/datasheet/7249
+146,Asystasia gangetica, chinese violet, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Acanthaceae, https://www.cabi.org/isc/datasheet/7641
+147,Atriplex semibaccata, Australian saltbush, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Chenopodiaceae, https://www.cabi.org/isc/datasheet/7903
+148,Averrhoa bilimbi, bilimbi, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Geraniales, Oxalidaceae, https://www.cabi.org/isc/datasheet/8081
+149,Azadirachta indica, neem tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rutales, Meliaceae, https://www.cabi.org/isc/datasheet/8112
+150,Baccharis halimifolia, groundsel-bush, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/8164
+151,Bacopa monnieri, water hyssop, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Scrophulariaceae, https://www.cabi.org/isc/datasheet/112638
+152,Barleria cristata, Philippine violet, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Acanthaceae, https://www.cabi.org/isc/datasheet/8509
+153,Barleria lupulina, hophead Philippine violet, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Acanthaceae, https://www.cabi.org/isc/datasheet/120108
+154,Barringtonia asiatica, sea poison tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Theales, Lecythidaceae, https://www.cabi.org/isc/datasheet/8468
+155,Basella alba, malabar spinach, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Basellaceae, https://www.cabi.org/isc/datasheet/8273
+156,Bassia hyssopifolia, fivehook bassia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Chenopodiaceae, https://www.cabi.org/isc/datasheet/92365
+157,Batis maritima, saltwort, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Bataceae, https://www.cabi.org/isc/datasheet/8562
+158,Bauhinia monandra, Napoleon's plume, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/8626
+159,Bauhinia purpurea, purple bauhinia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/8638
+160,Bauhinia variegata, mountain ebony, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/8656
+161,Begonia nelumbiifolia, lilypad begonia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Begoniaceae, https://www.cabi.org/isc/datasheet/119796
+162,Berberis thunbergii, Japanese barberry, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Ranunculales, Berberidaceae, https://www.cabi.org/isc/datasheet/8808
+163,Bidens alba, , No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/119783
+164,Bidens frondosa, beggarticks, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/108916
+165,Bidens pilosa, blackjack, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/9148
+166,Bixa orellana, annatto, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Bixaceae, https://www.cabi.org/isc/datasheet/9242
+167,Bocconia frutescens, plume poppy, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Papaverales, Papaveraceae, https://www.cabi.org/isc/datasheet/9449
+168,Boerhavia coccinea, scarlet spiderling, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Nyctaginaceae, https://www.cabi.org/isc/datasheet/9459
+169,Boerhavia diffusa, red spiderling, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Nyctaginaceae, https://www.cabi.org/isc/datasheet/9460
+170,Bontia daphnoides, white alling, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Scrophulariaceae, https://www.cabi.org/isc/datasheet/119798
+171,Bougainvillea spectabilis, great bougainvillea, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Nyctaginaceae, https://www.cabi.org/isc/datasheet/9640
+172,Brassica juncea, mustard, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/91760
+173,Brassica nigra, black mustard, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/10097
+174,Brassica rapa, field mustard, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/121115
+175,Brassica tournefortii, African mustard, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/50069
+176,Breynia disticha, snowbush, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/112794
+177,Broussonetia papyrifera, paper mulberry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Moraceae, https://www.cabi.org/isc/datasheet/10017
+178,Brugmansia candida, angel's trumpet, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/10133
+179,Brugmansia suaveolens, white angel's trumpet, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/107903
+180,Buddleja asiatica, dog tail, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Loganiaceae, https://www.cabi.org/isc/datasheet/10317
+181,Buddleja davidii, butterfly bush, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Loganiaceae, https://www.cabi.org/isc/datasheet/10314
+182,Bunias orientalis, Turkish warty-cabbage, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/109130
+183,Cabomba caroliniana, Carolina fanwort, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Nymphaeales, Cabombaceae, https://www.cabi.org/isc/datasheet/107743
+184,Caesalpinia decapetala, Mysore thorn, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/10733
+185,Caesalpinia pulcherrima, peacock flower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/10728
+186,Calliandra houstoniana var. calothyrsus, calliandra, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/14011
+187,Calophyllum inophyllum, Alexandrian laurel, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Theales, Clusiaceae, https://www.cabi.org/isc/datasheet/14124
+188,Calopogonium caeruleum, jicama, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/14059
+189,Calopogonium mucunoides, calopo, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/14060
+190,Calotropis procera, apple of sodom, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Apocynaceae, https://www.cabi.org/isc/datasheet/16848
+191,Cananga odorata, ylang-ylang, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Annonales, Annonaceae, https://www.cabi.org/isc/datasheet/11122
+192,Canavalia ensiformis, jack bean, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/14486
+193,Canavalia gladiata, sword bean, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/14487
+194,Cannabis sativa, hemp, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Cannabaceae, https://www.cabi.org/isc/datasheet/14497
+195,Capsella bursa-pastoris, shepherd's purse, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/11223
+196,Capsicum annuum, bell pepper, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/15784
+197,Capsicum baccatum, pepper, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/120109
+198,Cardamine flexuosa, wavy bittercress, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/112949
+199,Cardiospermum grandiflorum, balloon vine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Sapindales, Sapindaceae, https://www.cabi.org/isc/datasheet/112965
+200,Cardiospermum halicacabum, balloon vine, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Sapindales, Sapindaceae, https://www.cabi.org/isc/datasheet/16033
+201,Carduus nutans, nodding thistle, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/11259
+202,Carduus pycnocephalus, Italian thistle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/11260
+203,Carpobrotus chilensis, sea fig, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Aizoaceae, https://www.cabi.org/isc/datasheet/113009
+204,Carpobrotus edulis, hottentot fig, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Aizoaceae, https://www.cabi.org/isc/datasheet/10648
+205,Cascabela thevetia, yellow oleander, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Apocynaceae, https://www.cabi.org/isc/datasheet/53608
+206,Cassia fistula, Indian laburnum, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/11434
+207,Cassia grandis, pink shower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/11439
+208,Cassia javanica, pink shower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/11443
+209,Cassytha filiformis, love-vine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Laurales, Lauraceae, https://www.cabi.org/isc/datasheet/11493
+210,Casuarina cunninghamiana, Australian beefwood, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Casuarinales, Casuarinaceae, https://www.cabi.org/isc/datasheet/16711
+211,Casuarina equisetifolia, casuarina, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Casuarinales, Casuarinaceae, https://www.cabi.org/isc/datasheet/16718
+212,Casuarina glauca, scaly oak (Australia), No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Casuarinales, Casuarinaceae, https://www.cabi.org/isc/datasheet/16719
+213,Catharanthus roseus, Madagascar periwinkle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Apocynaceae, https://www.cabi.org/isc/datasheet/16884
+214,Cecropia peltata, trumpet tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Cecropiaceae, https://www.cabi.org/isc/datasheet/11955
+215,Cedrela odorata, Spanish cedar, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rutales, Meliaceae, https://www.cabi.org/isc/datasheet/11975
+216,Celastrus orbiculatus, Asiatic bittersweet, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Celastrales, Salacia, https://www.cabi.org/isc/datasheet/12009
+217,Centaurea debeauxii, meadow knapweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/113056
+218,Centaurea diffusa, diffuse knapweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/12039
+219,Centaurea iberica, Iberian starthistle, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/109132
+220,Centaurea macrocephala, giant knapweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/12041
+221,Centaurea melitensis, Maltese starthistle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/109133
+222,Centaurea solstitialis, yellow starthistle, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/12043
+223,Centaurea stoebe subsp. micranthos, spotted knapweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/12040
+224,Centella asiatica, Asiatic pennywort, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Apiales, Apiaceae, https://www.cabi.org/isc/datasheet/12048
+225,Centratherum punctatum, lark daisy, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/14608
+226,Ceratocephala testiculata, bur buttercup, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Ranunculales, Ranunculaceae, https://www.cabi.org/isc/datasheet/113121
+227,Ceratophyllum demersum, coontail, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Nymphaeales, Ceratophyllaceae, https://www.cabi.org/isc/datasheet/16222
+228,Cestrum diurnum, day jessamine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/89953
+229,Cestrum nocturnum, night jessamine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/12031
+230,Chamaecrista nictitans, sensitive partridge pea, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/12562
+231,Chenopodium album, fat hen, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Chenopodiaceae, https://www.cabi.org/isc/datasheet/12648
+232,Chenopodium murale, nettleleaf goosefoot, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Chenopodiaceae, https://www.cabi.org/isc/datasheet/12652
+233,Chondrilla juncea, rush skeletonweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/110385
+234,Chromolaena odorata, Siam weed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/23248
+235,Chrysanthemoides monilifera, boneseed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/13119
+236,Cichorium endivia, endives, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/13408
+237,Cinchona pubescens, quinine tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Rubiaceae, https://www.cabi.org/isc/datasheet/13484
+238,Cinnamomum burmanni, padang cassia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Laurales, Lauraceae, https://www.cabi.org/isc/datasheet/13516
+239,Cinnamomum camphora, camphor laurel, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Laurales, Lauraceae, https://www.cabi.org/isc/datasheet/13519
+240,Cinnamomum verum, cinnamon, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Laurales, Lauraceae, https://www.cabi.org/isc/datasheet/13573
+241,Cirsium arvense, creeping thistle, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/13628
+242,Cirsium vulgare, spear thistle, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/13631
+243,Cissus quadrangularis, treebine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rhamnales, Vitaceae, https://www.cabi.org/isc/datasheet/13396
+244,Cissus verticillata, possum grape vine, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rhamnales, Vitaceae, https://www.cabi.org/isc/datasheet/82702108
+245,Citrus aurantiifolia, lime, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rutales, Rutaceae, https://www.cabi.org/isc/datasheet/13438
+246,Clematis terniflora, sweet autumn clematis, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Ranunculales, Ranunculaceae, https://www.cabi.org/isc/datasheet/113362
+247,Clematis vitalba, old man's beard, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Ranunculales, Ranunculaceae, https://www.cabi.org/isc/datasheet/14280
+248,Cleome rutidosperma, fringed spiderflower, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Capparaceae, https://www.cabi.org/isc/datasheet/14044
+249,Cleome viscosa, Asian spiderflower, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Capparaceae, https://www.cabi.org/isc/datasheet/14045
+250,Clerodendrum bungei, rose glorybower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/113370
+251,Clerodendrum chinense, Chinese glory bower, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/113371
+252,Clerodendrum indicum, Turk's turban, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/14330
+253,Clerodendrum lindleyi, clerodendrum, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/11103773
+254,Clerodendrum paniculatum, pagoda flower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/119784
+255,Clerodendrum quadriloculare, bronze-leaved clerodendrum, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/14334
+256,Clerodendrum speciosissimum, Java  glory bower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/113372
+257,Clerodendrum thomsoniae, bleeding glory bower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/14337
+258,Clerodendrum wallichii, Wallich's glorybower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/120110
+259,Clidemia hirta, Koster's curse, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Melastomataceae, https://www.cabi.org/isc/datasheet/13934
+260,Clusia rosea, , No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Theales, Clusiaceae, https://www.cabi.org/isc/datasheet/16942
+261,Coccinia grandis, scarlet-fruited ivy gourd, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Cucurbitaceae, https://www.cabi.org/isc/datasheet/14659
+262,Colubrina asiatica, latherleaf, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rhamnales, Rhamnaceae, https://www.cabi.org/isc/datasheet/14960
+263,Combretum indicum, Rangoon creeper, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Combretaceae, https://www.cabi.org/isc/datasheet/46654
+264,Conium maculatum, poison hemlock, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Apiales, Apiaceae, https://www.cabi.org/isc/datasheet/14820
+265,Convolvulus arvensis, bindweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/15101
+266,Conyza bonariensis, hairy fleabane, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/15250
+267,Conyza canadensis, Canadian fleabane, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/15251
+268,Cornus sericea, redosier dogwood, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Cornales, Cornaceae, https://www.cabi.org/isc/datasheet/16312
+269,Corymbia citriodora, lemon-scented gum, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/22602
+270,Corynocarpus laevigatus, karaka, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Celastrales, Corynocarpaceae, https://www.cabi.org/isc/datasheet/59069
+271,Cosmos caudatus, wild cosmos, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/117946
+272,Cosmos sulphureus, sulphur cosmos, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/110395
+273,Cotoneaster horizontalis, wall-spray, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/16870
+274,Crassocephalum crepidioides, redflower ragleaf, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/15870
+275,Crassula helmsii, Australian swamp stonecrop, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Crassulaceae, https://www.cabi.org/isc/datasheet/16463
+276,Crataegus monogyna, hawthorn, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/16496
+277,Crotalaria retusa, rattleweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/87408
+278,Crotalaria spectabilis, showy rattlepod, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/16161
+279,Crupina vulgaris, bearded creeper, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/13697
+280,Cryptostegia grandiflora, rubber vine, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Apocynaceae, https://www.cabi.org/isc/datasheet/16378
+281,Cryptostegia madagascariensis, Madagascar rubbervine, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Apocynaceae, https://www.cabi.org/isc/datasheet/113682
+282,Cucumis anguria, West Indian gherkin, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Cucurbitaceae, https://www.cabi.org/isc/datasheet/16964
+283,Cupaniopsis anacardioides, carrotwood, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Sapindales, Sapindaceae, https://www.cabi.org/isc/datasheet/16989
+284,Cuphea carthagenensis, Colombian waxweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Lythraceae, https://www.cabi.org/isc/datasheet/113690
+285,Cuphea hyssopifolia, false heather, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Lythraceae, https://www.cabi.org/isc/datasheet/118210
+286,Cuscuta campestris, field dodder, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Cuscutaceae, https://www.cabi.org/isc/datasheet/17111
+287,Cuscuta epithymum, alfalfa dodder, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Cuscutaceae, https://www.cabi.org/isc/datasheet/17114
+288,Cuscuta europaea, European dodder, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Cuscutaceae, https://www.cabi.org/isc/datasheet/17113
+289,Cuscuta japonica, Japanese dodder, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Cuscutaceae, https://www.cabi.org/isc/datasheet/17116
+290,Cyanthillium cinereum, little ironweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/113702
+291,Cylindropuntia fulgida, jumping cholla, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Cactaceae, https://www.cabi.org/isc/datasheet/37715
+292,Cylindropuntia imbricata, imbricate prickly pear, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Cactaceae, https://www.cabi.org/isc/datasheet/115972
+293,Cynara cardunculus, cardoon, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/17584
+294,Cynoglossum officinale, hound's tongue, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Boraginales, Boraginaceae, https://www.cabi.org/isc/datasheet/14550
+295,Cytisus scoparius, Scotch broom, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/17610
+296,Dalbergia sissoo, , No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/17808
+297,Datura ferox, fierce thornapple, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/85429
+298,Datura innoxia, downy thorn apple, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/18004
+299,Datura metel, Hindu datura, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/18005
+300,Datura stramonium, jimsonweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/18006
+301,Daucus carota, carrot, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Apiales, Apiaceae, https://www.cabi.org/isc/datasheet/18018
+302,Delairea odorata, Cape ivy, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/18265
+303,Delonix regia, flamboyant, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/18521
+304,Derris elliptica, tuba root, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/19971
+305,Descurainia sophia, flixweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/110230
+306,Desmodium incanum, creeping beggerweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/109200
+307,Dichrostachys cinerea, sickle bush, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/18119
+308,Dimorphotheca sinuata, Cape marigold, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/53141342
+309,Diodia teres, poorjoe, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Rubiaceae, https://www.cabi.org/isc/datasheet/19056
+310,Dipsacus fullonum, common teasel, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Dipsacales, Dipsacaceae, https://www.cabi.org/isc/datasheet/119605
+311,Dolichandra unguis-cati, cat's claw creeper, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Bignoniaceae, https://www.cabi.org/isc/datasheet/9159
+312,Dombeya wallichii, pink ball, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Sterculiaceae, https://www.cabi.org/isc/datasheet/113940
+313,Drymaria cordata, tropical chickweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Caryophyllaceae, https://www.cabi.org/isc/datasheet/20020
+314,Duranta erecta, golden dewdrop, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Verbenaceae, https://www.cabi.org/isc/datasheet/20192
+315,Dysphania ambrosioides, Mexican tea, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Chenopodiaceae, https://www.cabi.org/isc/datasheet/113977
+316,Echinocystis lobata, wild cucumber, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Cucurbitaceae, https://www.cabi.org/isc/datasheet/113998
+317,Echium plantagineum, Paterson's curse, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Boraginales, Boraginaceae, https://www.cabi.org/isc/datasheet/20400
+318,Eclipta prostrata, eclipta, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/20395
+319,Elaeagnus angustifolia, Russian olive, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Elaeagnales, Elaeagnaceae, https://www.cabi.org/isc/datasheet/20717
+320,Elaeagnus pungens, thorny olive, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Elaeagnales, Elaeagnaceae, https://www.cabi.org/isc/datasheet/20725
+321,Elaeagnus umbellata, autumn olive, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Elaeagnales, Elaeagnaceae, https://www.cabi.org/isc/datasheet/20728
+322,Elephantopus mollis, elephant's foot, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/114063
+323,Emex australis, Doublegee, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygonales, Polygonaceae, https://www.cabi.org/isc/datasheet/20826
+324,Emex spinosa, spiny emex, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygonales, Polygonaceae, https://www.cabi.org/isc/datasheet/20827
+325,Emilia coccinea, scarlet tasselflower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/120120
+326,Emilia fosbergii, Florida tassel-flower, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/114086
+327,Emilia sonchifolia, red tasselflower, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/20833
+328,Epilobium ciliatum, northern willowherb, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Onagraceae, https://www.cabi.org/isc/datasheet/114114
+329,Epiphyllum oxypetalum, dutchman's-pipe cactus, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Cactaceae, https://www.cabi.org/isc/datasheet/73449175
+330,Erechtites glomerata, fireweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/120574
+331,Erechtites hieraciifolius, American burnweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/114182
+332,Erechtites valerianifolius, tropical burnweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/114184
+333,Erigeron bellioides, bellorita, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/42555823
+334,Erigeron karvinskianus, Karwinsky’s fleabane, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/114202
+335,Eriobotrya japonica, loquat, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/20559
+336,Erodium botrys, long-beaked stork's bill, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Geraniales, Geraniaceae, https://www.cabi.org/isc/datasheet/114229
+337,Erodium cicutarium, common storksbill, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Geraniales, Geraniaceae, https://www.cabi.org/isc/datasheet/21843
+338,Eucalyptus camaldulensis, red gum, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/22596
+339,Eucalyptus cladocalyx, sugar gum, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/22599
+340,Eucalyptus globulus, Tasmanian blue gum, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/22680
+341,Eucalyptus paniculata, grey ironbark, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/22815
+342,Eucalyptus robusta, swamp mahogany, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/22843
+343,Eucalyptus sideroxylon, black ironbark, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/22476
+344,Eugenia uniflora, Surinam cherry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/23099
+345,Euonymus fortunei, wintercreeper, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Celastrales, Celastraceae, https://www.cabi.org/isc/datasheet/23204
+346,Euonymus japonicus, Japanese spindle tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Celastrales, Celastraceae, https://www.cabi.org/isc/datasheet/23206
+347,Euphorbia esula, leafy spurge, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/21347
+348,Euphorbia heterophylla, wild poinsettia, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/23313
+349,Euphorbia hirta, garden spurge, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/21355
+350,Euphorbia hypericifolia, graceful spurge, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/119929
+351,Euphorbia leucocephala, white Christmas bush, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/95917925
+352,Euphorbia milii, crown-of-thorns, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/21368
+353,Euphorbia terracina, false caper, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/21379
+354,Euphorbia tirucalli, Indian-tree spurge, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/21381
+355,Euphorbia tithymaloides, devil's backbone, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/121886
+356,Euphorbia umbellata, African milk bush, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/121883
+357,Falcataria moluccana, batai wood, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/38847
+358,Fallopia convolvulus, black bindweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygonales, Polygonaceae, https://www.cabi.org/isc/datasheet/23874
+359,Fallopia japonica, Japanese knotweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygonales, Polygonaceae, https://www.cabi.org/isc/datasheet/23875
+360,Fallopia sachalinensis, giant knotweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygonales, Polygonaceae, https://www.cabi.org/isc/datasheet/107744
+361,Fallopia x bohemica, , No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygonales, Polygonaceae, https://www.cabi.org/isc/datasheet/108332
+362,Ficus benghalensis, banyan, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Moraceae, https://www.cabi.org/isc/datasheet/24066
+363,Ficus benjamina, weeping fig, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Moraceae, https://www.cabi.org/isc/datasheet/24065
+364,Ficus carica, common fig, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Moraceae, https://www.cabi.org/isc/datasheet/24078
+365,Ficus elastica, rubber plant, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Moraceae, https://www.cabi.org/isc/datasheet/24090
+366,Ficus microcarpa, Indian laurel tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Moraceae, https://www.cabi.org/isc/datasheet/24130
+367,Ficus pumila, creeping fig, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Moraceae, https://www.cabi.org/isc/datasheet/24162
+368,Ficus religiosa, sacred fig tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Moraceae, https://www.cabi.org/isc/datasheet/24168
+369,Flacourtia indica, governor's plum, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Flacourtiaceae, https://www.cabi.org/isc/datasheet/24211
+370,Flemingia macrophylla, large leaf flemingia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/24227
+371,Flemingia strobilifera, wild hops, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/24229
+372,Foeniculum vulgare, fennel, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Apiales, Apiaceae, https://www.cabi.org/isc/datasheet/24271
+373,Fragaria vesca, wild strawberry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/24409
+374,Frangula alnus, alder buckthorn, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rhamnales, Rhamnaceae, https://www.cabi.org/isc/datasheet/47001
+375,Fraxinus pennsylvanica, downy ash, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Oleales, Oleaceae, https://www.cabi.org/isc/datasheet/24544
+376,Fraxinus uhdei, tropical ash, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Oleales, Oleaceae, https://www.cabi.org/isc/datasheet/24559
+377,Funtumia elastica, West African rubber tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Apocynaceae, https://www.cabi.org/isc/datasheet/24593
+378,Gaillardia pulchella, Indian blanket, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/110246
+379,Galega officinalis, goatsrue, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/24756
+380,Galinsoga parviflora, gallant soldier, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/25299
+381,Galinsoga quadriradiata, shaggy soldier, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/120145
+382,Galium aparine, cleavers, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Rubiaceae, https://www.cabi.org/isc/datasheet/24772
+383,Galphimia glauca, goldshower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygalales, Malpighiaceae, https://www.cabi.org/isc/datasheet/119814
+384,Galphimia gracilis, goldshower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygalales, Malpighiaceae, https://www.cabi.org/isc/datasheet/37017023
+385,Gaultheria shallon, salal, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Ericales, Ericaceae, https://www.cabi.org/isc/datasheet/24761
+386,Genista monspessulana, Montpellier broom, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/25059
+387,Geoffroea decorticans, Chilean palo verde, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/25088
+388,Glechoma hederacea, ground ivy, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/25249
+389,Gleditsia triacanthos, honey locust, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/25272
+390,Gliricidia sepium, gliricidia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/25380
+391,Gomphocarpus physocarpus, balloon cotton bush, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Asclepiadaceae, https://www.cabi.org/isc/datasheet/114618
+392,Gomphrena globosa, globe amaranth, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/25617
+393,Gomphrena serrata, arrasa con todo, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Amaranthaceae, https://www.cabi.org/isc/datasheet/120122
+394,Gossypium barbadense, Gallini cotton, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/25794
+395,Grevillea robusta, silky oak, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Proteales, Proteaceae, https://www.cabi.org/isc/datasheet/25866
+396,Gunnera tinctoria, giant rhubarb, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Haloragales, Gunneraceae, https://www.cabi.org/isc/datasheet/107826
+397,Gypsophila paniculata, baby’s breath, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Caryophyllaceae, https://www.cabi.org/isc/datasheet/26266
+398,Haematoxylum campechianum, logwood, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/26332
+399,Halogeton glomeratus, halogeton, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Chenopodiaceae, https://www.cabi.org/isc/datasheet/26352
+400,Hedera helix, ivy, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Araliales, Araliaceae, https://www.cabi.org/isc/datasheet/26694
+401,Helenium amarum, bitterweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/121130
+402,Helenium quadridentatum, longdisk sneezeweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/80319
+403,Helianthus annuus, sunflower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/26714
+404,Helianthus ciliaris, Texas blueweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/26715
+405,Helianthus debilis, beach sunflower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/114701
+406,Helianthus tuberosus, Jerusalem artichoke, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/26716
+407,Heliocarpus americanus, white moho, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Tiliaceae, https://www.cabi.org/isc/datasheet/26613
+408,Heliotropium curassavicum, salt heliotrope, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Boraginales, Boraginaceae, https://www.cabi.org/isc/datasheet/114723
+409,Heliotropium indicum, Indian heliotrope, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Boraginales, Boraginaceae, https://www.cabi.org/isc/datasheet/26899
+410,Helminthotheca echioides, bristly oxtongue, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/116335
+411,Hemigraphis alternata, red ivy, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Acanthaceae, https://www.cabi.org/isc/datasheet/121880
+412,Heracleum mantegazzianum, giant hogweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Apiales, Apiaceae, https://www.cabi.org/isc/datasheet/26911
+413,Heterotheca grandiflora, telegraph weed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/120576
+414,Heterotis rotundifolia, pink lady, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Melastomataceae, https://www.cabi.org/isc/datasheet/120226
+415,Hibiscus elatus, blue mahoe, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/27120
+416,Hibiscus tiliaceus, coast cottonwood, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/27132
+417,Hibiscus trionum, Venice mallow, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/27133
+418,Hiptage benghalensis, hiptage, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygalales, Malpighiaceae, https://www.cabi.org/isc/datasheet/27228
+419,Hirschfeldia incana, shortpod mustard, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/114820
+420,Humulus scandens, Japanese hop, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Cannabaceae, https://www.cabi.org/isc/datasheet/108921
+421,Hydrocotyle ranunculoides, floating pennywort, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Apiales, Apiaceae, https://www.cabi.org/isc/datasheet/28068
+422,Hygrophila polysperma, Indian swampweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Acanthaceae, https://www.cabi.org/isc/datasheet/28135
+423,Hylocereus undatus, dragon fruit, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Cactaceae, https://www.cabi.org/isc/datasheet/27317
+424,Hyoscyamus niger, black henbane, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/28251
+425,Hypericum perforatum, St John's wort, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Theales, Clusiaceae, https://www.cabi.org/isc/datasheet/28268
+426,Hypochaeris radicata, cat's ear, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/27895
+427,Hyptis spicigera, black sesame, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/119822
+428,Hyptis suaveolens, pignut, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/110258
+429,Impatiens balsamina, garden balsam, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Balsaminales, Balsaminaceae, https://www.cabi.org/isc/datasheet/28765
+430,Impatiens glandulifera, Himalayan balsam, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Balsaminales, Balsaminaceae, https://www.cabi.org/isc/datasheet/28766
+431,Impatiens parviflora, small balsam, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Balsaminales, Balsaminaceae, https://www.cabi.org/isc/datasheet/28768
+432,Impatiens walleriana, busy lizzy, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Balsaminales, Balsaminaceae, https://www.cabi.org/isc/datasheet/28769
+433,Indigofera hirsuta, hairy indigo, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/28601
+434,Indigofera spicata, creeping indigo, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/79262
+435,Indigofera suffruticosa, Anil indigo, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/28611
+436,Indigofera tinctoria, true indigo, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/28613
+437,Indigofera trita, Asian indigo, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/120416
+438,Indigofera trita subsp. scabra, Asian Indigo, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/120555
+439,Inula britannica, british yellowhead, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/28753
+440,Ipomoea alba, white moonflower , No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/119823
+441,Ipomoea aquatica, swamp morning-glory, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/28781
+442,Ipomoea cairica, five-fingered morning glory, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/28786
+443,Ipomoea carnea subsp. fistulosa, bush morning glory, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/28785
+444,Ipomoea hederifolia, scarlet-creeper , Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/119818
+445,Ipomoea indica, ocean blue morning-glory, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/107833
+446,Ipomoea nil, white edge morning-glory, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/107882
+447,Ipomoea ochracea, fence morning-glory, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/114969
+448,Ipomoea purpurea, tall morning glory, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/40052
+449,Ipomoea quamoclit, cypress vine, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/28796
+450,Ipomoea triloba, three-lobe morning glory, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/28799
+451,Isatis tinctoria, dyer's woad, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/28902
+452,Iva xanthiifolia, marsh-elder, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/120279
+453,Ixora casei, giant red ixora, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Rubiaceae, https://www.cabi.org/isc/datasheet/110261
+454,Ixora finlaysoniana, white jungle flame, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Rubiaceae, https://www.cabi.org/isc/datasheet/29177
+455,Jacaranda mimosifolia, jacaranda, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Bignoniaceae, https://www.cabi.org/isc/datasheet/29212
+456,Jasminum fluminense, Brazilian jasmine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Oleales, Oleaceae, https://www.cabi.org/isc/datasheet/115014
+457,Jasminum multiflorum, star jasmine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Oleales, Oleaceae, https://www.cabi.org/isc/datasheet/115016
+458,Jasminum sambac, Arabian jasmine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Oleales, Oleaceae, https://www.cabi.org/isc/datasheet/28388
+459,Jatropha curcas, jatropha, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/28393
+460,Jatropha gossypiifolia, bellyache bush, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/28394
+461,Justicia pectoralis, freshcut, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Acanthaceae, https://www.cabi.org/isc/datasheet/29291
+462,Kalanchoe blossfeldiana, flaming katy, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Crassulaceae, https://www.cabi.org/isc/datasheet/29327
+463,Kalanchoe daigremontiana, devil's backbone, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Crassulaceae, https://www.cabi.org/isc/datasheet/115049
+464,Kalanchoe delagoensis, chandelier plant, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Crassulaceae, https://www.cabi.org/isc/datasheet/115050
+465,Kalanchoe integra, Never die, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Crassulaceae, https://www.cabi.org/isc/datasheet/119824
+466,Kalanchoe pinnata, cathedral bells, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Crassulaceae, https://www.cabi.org/isc/datasheet/29328
+467,Kunzea ericoides, kanuka, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/29565
+468,Lablab purpureus, hyacinth bean, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/30003
+469,Lactuca floridana, woodland lettuce, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/120123
+470,Lagenaria siceraria, bottle gourd, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Cucurbitaceae, https://www.cabi.org/isc/datasheet/30556
+471,Lagerstroemia indica, Indian crape myrtle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Lythraceae, https://www.cabi.org/isc/datasheet/29669
+472,Lagerstroemia speciosa, Pride of India, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Lythraceae, https://www.cabi.org/isc/datasheet/29704
+473,Lamium amplexicaule, henbit deadnettle, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/29728
+474,Lantana camara, lantana, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Verbenaceae, https://www.cabi.org/isc/datasheet/29771
+475,Lathyrus odoratus, sweet pea, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/31584
+476,Launaea intybacea, bitter lettuce, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/115165
+477,Lawsonia inermis, Egyptian privet, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Lythraceae, https://www.cabi.org/isc/datasheet/29956
+478,Leonotis nepetifolia, Christmas candlestick, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/110266
+479,Leonurus japonicus, honeyweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/115194
+480,Lepidium draba, hoary cress, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/10621
+481,Lepidium latifolium, perennial pepperweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/115209
+482,Lepidium perfoliatum, clasping pepperweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/115212
+483,Lepidium virginicum, Virginian peppercress, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/30303
+484,Leptospermum scoparium, manuka, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/30097
+485,Lespedeza cuneata, sericea lespedeza, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/20616387
+486,Leucaena diversifolia, , No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/31625
+487,Leucaena leucocephala, leucaena, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/31634
+488,Leucanthemum vulgare, oxeye daisy, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/13357
+489,Leucophyllum frutescens, Texas barometer bush, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Scrophulariaceae, https://www.cabi.org/isc/datasheet/30466
+490,Ligustrum lucidum, broad-leaf privet, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Oleales, Oleaceae, https://www.cabi.org/isc/datasheet/30751
+491,Ligustrum obtusifolium, border privet, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Oleales, Oleaceae, https://www.cabi.org/isc/datasheet/30755
+492,Ligustrum sinense, Chinese privet, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Oleales, Oleaceae, https://www.cabi.org/isc/datasheet/30763
+493,Ligustrum vulgare, common privet, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Oleales, Oleaceae, https://www.cabi.org/isc/datasheet/30764
+494,Linaria dalmatica, dalmatian toadflax, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Scrophulariaceae, https://www.cabi.org/isc/datasheet/30827
+495,Linaria vulgaris, common toadflax, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Scrophulariaceae, https://www.cabi.org/isc/datasheet/30828
+496,Lindernia crustacea, Malaysian false pimpernel, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Scrophulariaceae, https://www.cabi.org/isc/datasheet/30864
+497,Lonicera japonica, Japanese honeysuckle, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Dipsacales, Caprifoliaceae, https://www.cabi.org/isc/datasheet/31191
+498,Lonicera maackii, Amur honeysuckle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Dipsacales, Caprifoliaceae, https://www.cabi.org/isc/datasheet/31192
+499,Lonicera morrowii, Morrow’s honeysuckle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Dipsacales, Caprifoliaceae, https://www.cabi.org/isc/datasheet/31193
+500,Ludwigia grandiflora, water primrose, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Onagraceae, https://www.cabi.org/isc/datasheet/109148
+501,Ludwigia octovalvis, primrose willow, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Onagraceae, https://www.cabi.org/isc/datasheet/31671
+502,Ludwigia palustris, marsh seedbox, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Onagraceae, https://www.cabi.org/isc/datasheet/120287
+503,Ludwigia peploides, water primrose, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Onagraceae, https://www.cabi.org/isc/datasheet/31673
+504,Luffa acutangula, angled luffa, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Cucurbitaceae, https://www.cabi.org/isc/datasheet/31692
+505,Lupinus angustifolius, narrow-leaf lupin, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/31706
+506,Lupinus plattensis, Nebraska lupine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/121881
+507,Lupinus polyphyllus, garden lupin, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/31710
+508,Lycium ferocissimum, African boxthorn, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/31903
+509,Lythrum maritimum, pukamole, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Lythraceae, https://www.cabi.org/isc/datasheet/119069
+510,Lythrum salicaria, purple loosestrife, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Lythraceae, https://www.cabi.org/isc/datasheet/31890
+511,Macaranga tanarius, parasol leaf tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/32763
+512,Macroptilium atropurpureum, siratro, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/110272
+513,Mahonia aquifolium, Oregongrape, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Ranunculales, Berberidaceae, https://www.cabi.org/isc/datasheet/32269
+514,Malva pusilla, round-leaved mallow, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/115483
+515,Malvaviscus arboreus, wax mallow, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/32383
+516,Malvaviscus penduliflorus, Turk's cap mallow, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/86508374
+517,Mangifera indica, mango, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Sapindales, Anacardiaceae, https://www.cabi.org/isc/datasheet/34505
+518,Manilkara zapota, sapodilla, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Ebenales, Sapotaceae, https://www.cabi.org/isc/datasheet/34560
+519,Marrubium vulgare, horehound, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/119607
+520,Medicago lupulina, black medick, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/33034
+521,Medicago polymorpha, bur clover, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/33031
+522,Melaleuca quinquenervia, paperbark tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/34348
+523,Melastoma malabathricum, Banks melastoma, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Melastomataceae, https://www.cabi.org/isc/datasheet/33489
+524,Melia azedarach, Chinaberry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rutales, Meliaceae, https://www.cabi.org/isc/datasheet/33144
+525,Melicoccus bijugatus, Spanish lime, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Sapindales, Sapindaceae, https://www.cabi.org/isc/datasheet/33184
+526,Melilotus albus, honey clover, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/33693
+527,Melilotus officinalis, yellow sweet clover, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/33697
+528,Mentha pulegium, pennyroyal, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/115572
+529,Merremia aegyptia, hairy woodrose, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/119828
+530,Merremia cissoides, roadside woodrose, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/119829
+531,Merremia tuberosa, woodrose, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/115577
+532,Merremia umbellata, hogvine, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/33477
+533,Mesembryanthemum crystallinum, crystalline iceplant, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Aizoaceae, https://www.cabi.org/isc/datasheet/115578
+534,Mesosphaerum pectinatum, comb bushmint, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/28345
+535,Miconia calvescens, miconia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Melastomataceae, https://www.cabi.org/isc/datasheet/33990
+536,Mikania micrantha, bitter vine, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/34095
+537,Mikania scandens, , No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/34096
+538,Mimosa diplotricha, creeping sensitive plant, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/34196
+539,Mimosa pigra, giant sensitive plant, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/34199
+540,Cupressus arizonica, Arizona cypress, No, Eukaryota, Plantae, Spermatophyta, Pinopsida, , Cupressaceae, https://www.cabi.org/isc/datasheet/17083
+541,Cupressus sempervirens, Mediterranean cypress, No, Eukaryota, Plantae, Spermatophyta, Pinopsida, , Cupressaceae, https://www.cabi.org/isc/datasheet/17105
+542,Pinus caribaea, Caribbean pine, No, Eukaryota, Plantae, Spermatophyta, Pinopsida, , Pinaceae, https://www.cabi.org/isc/datasheet/41573
+543,Pinus contorta, lodgepole pine, No, Eukaryota, Plantae, Spermatophyta, Pinopsida, , Pinaceae, https://www.cabi.org/isc/datasheet/41577
+544,Pinus elliottii, slash pine, No, Eukaryota, Plantae, Spermatophyta, Pinopsida, , Pinaceae, https://www.cabi.org/isc/datasheet/41600
+545,Pinus halepensis, Aleppo pine, No, Eukaryota, Plantae, Spermatophyta, Pinopsida, , Pinaceae, https://www.cabi.org/isc/datasheet/41617
+546,Pinus patula, Mexican weeping pine, No, Eukaryota, Plantae, Spermatophyta, Pinopsida, , Pinaceae, https://www.cabi.org/isc/datasheet/41682
+547,Pinus pinaster, maritime pine, No, Eukaryota, Plantae, Spermatophyta, Pinopsida, , Pinaceae, https://www.cabi.org/isc/datasheet/41688
+548,Pinus radiata, radiata pine, No, Eukaryota, Plantae, Spermatophyta, Pinopsida, , Pinaceae, https://www.cabi.org/isc/datasheet/41699
+549,Adonidia merrillii, Christmas palm, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arecales, Arecaceae, https://www.cabi.org/isc/datasheet/56193
+550,Aegilops cylindrica, , No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/108330
+551,Agave americana, century plant, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Agavaceae, https://www.cabi.org/isc/datasheet/3851
+552,Agave sisalana, sisal hemp, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Agavaceae, https://www.cabi.org/isc/datasheet/3855
+553,Agave vivipara, Caribbean agave, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Agavaceae, https://www.cabi.org/isc/datasheet/119789
+554,Agropyron cristatum, crested wheatgrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/3723
+555,Agrostis avenacea, Pacific bent grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/95130
+556,Agrostis capillaris, common bent, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/3830
+557,Aira caryophyllea, silver hairgrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/112070
+558,Allium vineale, crow garlic, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Liliaceae, https://www.cabi.org/isc/datasheet/4255
+559,Alocasia cucullata, Chinese taro, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arales, Araceae, https://www.cabi.org/isc/datasheet/37019438
+560,Alocasia macrorrhizos, giant taro, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arales, Araceae, https://www.cabi.org/isc/datasheet/4220
+561,Aloe vera, true aloe, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Aloaceae, https://www.cabi.org/isc/datasheet/4192
+562,Alopecurus myosuroides, black-grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/4360
+563,Alopecurus pratensis, meadow foxtail, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/4361
+564,Alpinia purpurata, red ginger, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Zingiberaceae, https://www.cabi.org/isc/datasheet/4377
+565,Alpinia zerumbet, shell ginger, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Zingiberaceae, https://www.cabi.org/isc/datasheet/109799
+566,Ammophila arenaria, marram grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/4898
+567,Andropogon glomeratus, bushy bluestem, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/118977
+568,Andropogon virginicus, broomsedge, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/5286
+569,Anthoxanthum odoratum, sweet vernal grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/93023
+570,Aristida ternipes, spidergrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/119794
+571,Arrhenatherum elatius, false oat-grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/7065
+572,Arthraxon hispidus, small carpetgrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/112458
+573,Arundo donax, giant reed, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/1940
+574,Asparagus asparagoides, bridal creeper, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Liliaceae, https://www.cabi.org/isc/datasheet/8139
+575,Asparagus densiflorus, asparagus fern, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Liliaceae, https://www.cabi.org/isc/datasheet/7410
+576,Asparagus falcatus, sicklethorn, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Liliaceae, https://www.cabi.org/isc/datasheet/66024954
+577,Asparagus setaceus, asparagus fern, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Liliaceae, https://www.cabi.org/isc/datasheet/7409
+578,Asphodelus tenuifolius, onionweed, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Liliaceae, https://www.cabi.org/isc/datasheet/7377
+579,Avena barbata, slender oat, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/8057
+580,Avena fatua, wild oat, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/8058
+581,Avena sterilis, winter wild oat, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/8062
+582,Axonopus compressus, carpet grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/8094
+583,Axonopus fissifolius, , Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/112632
+584,Bambusa tuldoides, punting pole bamboo, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/8392
+585,Bambusa vulgaris, common bamboo, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/8398
+586,Bothriochloa bladhii, Caucasian bluestem, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/119799
+587,Bothriochloa ischaemum, yellow bluestem, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/112759
+588,Bothriochloa pertusa, pitted beard grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/112761
+589,Brachypodium distachyon, purple false brome, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/112778
+590,Brachypodium sylvaticum, slender false brome, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/9890
+591,Briza maxima, large quaking grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/112795
+592,Bromelia pinguin, wild pineapple, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Bromeliales, Bromeliaceae, https://www.cabi.org/isc/datasheet/10010
+593,Bromus diandrus, great brome, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/10024
+594,Bromus hordeaceus, soft brome, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/10026
+595,Bromus japonicus, Japanese brome, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/10028
+596,Bromus madritensis, compact brome, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/10029
+597,Bromus rigidus, ripgut brome, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/10032
+598,Bromus rubens, red brome, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/10033
+599,Bromus secalinus, rye brome, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/10034
+600,Bromus sterilis, barren brome, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/10035
+601,Bromus tectorum, downy brome, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/10036
+602,Caladium bicolor, heart of Jesus, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arales, Araceae, https://www.cabi.org/isc/datasheet/121808
+603,Callisia fragrans, basketplant, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Commelinales, Commelinaceae, https://www.cabi.org/isc/datasheet/112884
+604,Callisia repens, creeping inch-plant, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Commelinales, Commelinaceae, https://www.cabi.org/isc/datasheet/13501
+605,Canna indica, canna lilly, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Cannaceae, https://www.cabi.org/isc/datasheet/14575
+606,Carex kobomugi, Asiatic sand sedge, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Cyperaceae, https://www.cabi.org/isc/datasheet/112985
+607,Cenchrus biflorus, Indian sandbur, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/113042
+608,Cenchrus ciliaris, Buffel grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/14502
+609,Cenchrus echinatus, southern sandbur, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/14501
+610,Chamaedorea elegans, parlour palm, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arecales, Arecaceae, https://www.cabi.org/isc/datasheet/14347
+611,Cheilocostus speciosus, crepe ginger , No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Zingiberaceae, https://www.cabi.org/isc/datasheet/110397
+612,Chloris barbata, purpletop chloris, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/13113
+613,Chloris gayana, Rhodes grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/13115
+614,Chrysopogon aciculatus, golden false beardgrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/12475
+615,Chrysopogon zizanioides, vetiver, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/18528934
+616,Cocos nucifera, coconut, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arecales, Arecaceae, https://www.cabi.org/isc/datasheet/11788
+617,Coix lacryma-jobi, Job's-tears, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/15648
+618,Colocasia esculenta, taro, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arales, Araceae, https://www.cabi.org/isc/datasheet/17221
+619,Commelina benghalensis, wandering jew, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Commelinales, Commelinaceae, https://www.cabi.org/isc/datasheet/14977
+620,Commelina diffusa, spreading dayflower, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Commelinales, Commelinaceae, https://www.cabi.org/isc/datasheet/14979
+621,Cordyline fruticosa, ti plant, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Agavaceae, https://www.cabi.org/isc/datasheet/11866
+622,Cortaderia jubata, purple pampas grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/113484
+623,Cortaderia selloana, pampas grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/11872
+624,Crocosmia x crocosmiiflora, montbretia, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Iridaceae, https://www.cabi.org/isc/datasheet/55282
+625,Crypsis schoenoides, swamp pricklegrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/113637
+626,Crypsis vaginiflora, African pricklegrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/120573
+627,Cymbopogon citratus, lemongrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/17377
+628,Cymbopogon nardus, citronella grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/120396
+629,Cymbopogon schoenanthus, camel grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/85275662
+630,Cynodon dactylon, Bermuda grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/17463
+631,Cynodon nlemfuensis, African Bermuda-grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/86155
+632,Cyperus compressus, annual sedge, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Cyperaceae, https://www.cabi.org/isc/datasheet/17494
+633,Cyperus difformis, small-flowered nutsedge, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Cyperaceae, https://www.cabi.org/isc/datasheet/17495
+634,Cyperus esculentus, yellow nutsedge, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Cyperaceae, https://www.cabi.org/isc/datasheet/17496
+635,Cyperus iria, rice flatsedge, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Cyperaceae, https://www.cabi.org/isc/datasheet/17501
+636,Cyperus meyenianus, Meyen's flatsedge, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Cyperaceae, https://www.cabi.org/isc/datasheet/119060
+637,Cyperus papyrus, papyrus, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Cyperaceae, https://www.cabi.org/isc/datasheet/17503
+638,Cyperus rotundus, purple nutsedge, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Cyperaceae, https://www.cabi.org/isc/datasheet/17506
+639,Dactylis glomerata, cocksfoot, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/17618
+640,Dactyloctenium aegyptium, crowfoot grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/19321
+641,Danthonia decumbens, heath grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/113791
+642,Dichanthium annulatum, Kleberg's bluestem, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/113873
+643,Dichanthium aristatum, angelton bluestem, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/72738166
+644,Dieffenbachia seguine, dumb cane, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arales, Araceae, https://www.cabi.org/isc/datasheet/18910
+645,Digitaria bicornis, Asian crabgrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/120117
+646,Digitaria ciliaris, southern crabgrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/18912
+647,Digitaria eriantha, pangola grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/109594
+648,Digitaria fuscescens, yellow crab grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/120118
+649,Digitaria insularis, sourgrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/109596
+650,Digitaria longiflora, false couch grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/18915
+651,Digitaria sanguinalis, large crabgrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/18916
+652,Digitaria velutina, velvet fingergrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/18919
+653,Dioscorea alata, white yam, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Dioscoreales, Dioscoreaceae, https://www.cabi.org/isc/datasheet/19293
+654,Dioscorea bulbifera, air potato, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Dioscoreales, Dioscoreaceae, https://www.cabi.org/isc/datasheet/19295
+655,Dracaena fragrans, corn plant, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Agavaceae, https://www.cabi.org/isc/datasheet/19898
+656,Dypsis lutescens, yellow butterfly palm, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arecales, Arecaceae, https://www.cabi.org/isc/datasheet/109772
+657,Echinochloa colona, junglerice, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/20368
+658,Echinochloa crus-galli, barnyard grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/20367
+659,Echinochloa crus-pavonis, gulf cockspur grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/121129
+660,Egeria densa, leafy elodea, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Hydrocharitales, Hydrocharitaceae, https://www.cabi.org/isc/datasheet/20491
+661,Ehrharta calycina, perennial veldtgrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/114037
+662,Ehrharta erecta, panic veldtgrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/114038
+663,Eichhornia azurea, anchored water hyacinth, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Pontederiales, Pontederiaceae, https://www.cabi.org/isc/datasheet/108967
+664,Eichhornia crassipes, water hyacinth, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Pontederiales, Pontederiaceae, https://www.cabi.org/isc/datasheet/20544
+665,Elaeis guineensis, African oil palm, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arecales, Arecaceae, https://www.cabi.org/isc/datasheet/20295
+666,Eleocharis dulcis, Chinese water chestnut, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Cyperaceae, https://www.cabi.org/isc/datasheet/20694
+667,Eleusine indica, goose grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/20675
+668,Elodea canadensis, Canadian pondweed, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Hydrocharitales, Hydrocharitaceae, https://www.cabi.org/isc/datasheet/20759
+669,Elodea nuttallii, Nuttall's waterweed, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Hydrocharitales, Hydrocharitaceae, https://www.cabi.org/isc/datasheet/20761
+670,Elymus repens, quackgrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/3726
+671,Epipremnum pinnatum, centipede tongavine, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arales, Araceae, https://www.cabi.org/isc/datasheet/50410
+672,Eragrostis amabilis, Japanese lovegrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/21632
+673,Eragrostis atrovirens, thalia lovegrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/114143
+674,Eragrostis japonica, pond lovegrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/21634
+675,Eragrostis lehmanniana, Lehmann lovegrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/114157
+676,Eragrostis pilosa, India lovegrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/21631
+677,Eragrostis plana, South African lovegrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/114171
+678,Eragrostis unioloides, Chinese lovegrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/120121
+679,Eremochloa ophiuroides, centipedegrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/21819
+680,Etlingera elatior, torch ginger, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Zingiberaceae, https://www.cabi.org/isc/datasheet/109802
+681,Festuca arundinacea, tall fescue, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/23983
+682,Festuca pratensis, meadow fescue, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/23988
+683,Fimbristylis cymosa, tropical fimbry, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Cyperaceae, https://www.cabi.org/isc/datasheet/120575
+684,Fimbristylis dichotoma, tall fringe rush, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Cyperaceae, https://www.cabi.org/isc/datasheet/20680
+685,Fimbristylis littoralis, lesser fimbristylis, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Cyperaceae, https://www.cabi.org/isc/datasheet/24023
+686,Furcraea foetida, Mauritius hemp, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Asparagaceae, https://www.cabi.org/isc/datasheet/114444
+687,Glyceria declinata, small sweet grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/114599
+688,Glyceria maxima, reed sweet-grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/81510
+689,Hedychium coccineum, scarlet ginger lily, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Zingiberaceae, https://www.cabi.org/isc/datasheet/114692
+690,Hedychium coronarium, white butterfly ginger lily, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Zingiberaceae, https://www.cabi.org/isc/datasheet/26678
+691,Hedychium flavescens, wild ginger, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Zingiberaceae, https://www.cabi.org/isc/datasheet/107733
+692,Hedychium gardnerianum, kahili ginger, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Zingiberaceae, https://www.cabi.org/isc/datasheet/26679
+693,Heliconia bihai, macaw flower, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Heliconiaceae, https://www.cabi.org/isc/datasheet/109790
+694,Holcus lanatus, common velvet grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/114824
+695,Hydrilla verticillata, hydrilla, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Hydrocharitales, Hydrocharitaceae, https://www.cabi.org/isc/datasheet/28170
+696,Hydrocharis morsus-ranae, , No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Hydrocharitales, Hydrocharitaceae, https://www.cabi.org/isc/datasheet/28140
+697,Hymenachne amplexicaulis, hymenachne, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/109219
+698,Hyparrhenia rufa, Jaragua grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/27716
+699,Imperata cylindrica, cogon grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/28580
+700,Ischaemum rugosum, saramollagrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/28909
+701,Juncus effusus, common rush, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Juncaceae, https://www.cabi.org/isc/datasheet/29068
+702,Juncus ensifolius, swordleaf rush, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Juncaceae, https://www.cabi.org/isc/datasheet/115030
+703,Juncus planifolius, broadleaf rush, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Juncaceae, https://www.cabi.org/isc/datasheet/115039
+704,Juncus tenuis, slender rush, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Juncaceae, https://www.cabi.org/isc/datasheet/115047
+705,Kyllinga nemoralis, white kyllinga, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Cyperaceae, https://www.cabi.org/isc/datasheet/115089
+706,Leersia hexandra, southern cut grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/30391
+707,Lemna aequinoctialis, lesser duckweed, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arales, Araceae, https://www.cabi.org/isc/datasheet/121132
+708,Lemna minuta, , No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arales, Araceae, https://www.cabi.org/isc/datasheet/108968
+709,Lemna perpusilla, duckweed, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arales, Araceae, https://www.cabi.org/isc/datasheet/30243
+710,Leptochloa fusca, sprangletop, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/119826
+711,Leptochloa mucronata, mucronate sprangletop , Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/115226
+712,Leptochloa nealleyi, Nealley's sprangletop, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/119827
+713,Limnobium laevigatum, South American spongeplant, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Hydrocharitales, Hydrocharitaceae, https://www.cabi.org/isc/datasheet/115273
+714,Limnocharis flava, yellow bur-head, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Hydrocharitales, Limnocharitaceae, https://www.cabi.org/isc/datasheet/30804
+715,Livistona chinensis, Chinese fan palm, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arecales, Arecaceae, https://www.cabi.org/isc/datasheet/31059
+716,Lolium multiflorum, Italian ryegrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/31165
+717,Lolium perenne, perennial ryegrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/31166
+718,Lolium rigidum, rigid ryegrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/31167
+719,Lolium temulentum, darnel, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/31169
+720,Lysichiton americanus, American skunk cabbage, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arales, Araceae, https://www.cabi.org/isc/datasheet/31580
+721,Maranta arundinacea, arrowroot, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Marantaceae, https://www.cabi.org/isc/datasheet/32455
+722,Megathyrsus maximus, Guinea grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/38666
+723,Melinis minutiflora, molasses grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/32983
+724,Melinis repens, natal redtop, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/116730
+725,Microstegium vimineum, Nepalese browntop, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/115603
+726,Miscanthus sinensis, eulalia, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/34269
+727,Monochoria vaginalis, pickerel weed, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Pontederiales, Pontederiaceae, https://www.cabi.org/isc/datasheet/34807
+728,Moorochloa eruciformis, sweet signal grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/112767
+729,Moraea, Cape tulip, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Iridaceae, https://www.cabi.org/isc/datasheet/110405
+730,Moraea collina, Cape tulip, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Iridaceae, https://www.cabi.org/isc/datasheet/110455
+731,Murdannia nudiflora, doveweed, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Commelinales, Commelinaceae, https://www.cabi.org/isc/datasheet/35180
+732,Nassella trichotoma, serrated tussock grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/35726
+733,Neyraudia reynaudiana, burma reed, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/115785
+734,Oeceoclades maculata, monk orchid, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Orchidales, Orchidaceae, https://www.cabi.org/isc/datasheet/115853
+735,Oplismenus hirtellus subsp. undulatifolius, wavyleaf basketgrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/115961
+736,Oryza rufipogon, wild rice, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/37960
+737,Panicum repens, torpedo grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/38670
+738,Paspalidium geminatum, Egyptian paspalidium, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/120208
+739,Paspalum conjugatum, buffalo grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/38951
+740,Paspalum dilatatum, dallisgrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/38953
+741,Paspalum distichum, knotgrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/38952
+742,Paspalum millegrana, yerba brava, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/109610
+743,Paspalum notatum, Bahia grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/38954
+744,Paspalum paniculatum, Russell River grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/116165
+745,Paspalum scrobiculatum, ricegrass paspalum, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/38955
+746,Paspalum urvillei, Vasey grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/109621
+747,Paspalum vaginatum, seashore paspalum, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/110291
+748,Paspalum virgatum, sword grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/109622
+749,Pennisetum clandestinum, Kikuyu grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/39765
+750,Pennisetum macrourum, African feather grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/39768
+751,Pennisetum pedicellatum, deenanath grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/39769
+752,Pennisetum polystachion, mission grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/39770
+753,Pennisetum purpureum, elephant grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/39771
+754,Pennisetum setaceum, fountain grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/116202
+755,Phaius tankervilleae, nun’s-hood orchid, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Orchidales, Orchidaceae, https://www.cabi.org/isc/datasheet/119077
+756,Phalaris aquatica, bulbous canarygrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/70355
+757,Phalaris arundinacea, reed canary grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/55423
+758,Phalaris minor, littleseed canarygrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/55424
+759,Phalaris paradoxa, awned canary-grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/55425
+760,Phleum pratense, timothy grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/40248
+761,Phoenix canariensis, Canary Island date palm, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arecales, Arecaceae, https://www.cabi.org/isc/datasheet/40697
+762,Phormium tenax, New Zealand flax, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Agavaceae, https://www.cabi.org/isc/datasheet/40302
+763,Phragmites australis, common reed, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/40514
+764,Phyllostachys aurea, golden bamboo, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/42072
+765,Phyllostachys aureosulcata, yellow groove bamboo, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/42069
+766,Phyllostachys flexuosa, drooping timber bamboo, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/116311
+767,Phyllostachys reticulata, giant timber bamboo, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/42073
+768,Pistia stratiotes, water lettuce, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arales, Araceae, https://www.cabi.org/isc/datasheet/41496
+769,Poa annua, annual meadowgrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/42485
+770,Poa compressa, Canada bluegrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/42487
+771,Poa nemoralis, wood bluegrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/120579
+772,Poa pratensis, smooth meadow-grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/42489
+773,Polypogon monspeliensis, annual beard grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/68317
+774,Potamogeton crispus, curlyleaf pondweed, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zosterales, Potamogetonaceae, https://www.cabi.org/isc/datasheet/43664
+775,Ptychosperma elegans, solitaire palm, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arecales, Arecaceae, https://www.cabi.org/isc/datasheet/109782
+776,Ptychosperma macarthurii, Macarthur palm, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arecales, Arecaceae, https://www.cabi.org/isc/datasheet/45714
+777,Rottboellia cochinchinensis, itch grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/47782
+778,Roystonea oleracea, Caribbean royal palm, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arecales, Arecaceae, https://www.cabi.org/isc/datasheet/47910
+779,Saccharum ravennae, ravenna grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/109359
+780,Saccharum spontaneum, wild sugarcane, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/48162
+781,Sacciolepis indica, glen woodgrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/116837
+782,Sagittaria latifolia, broadleaf arrowhead, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Alismatales, Alismataceae, https://www.cabi.org/isc/datasheet/109160
+783,Sansevieria hyacinthoides, African bowstring hemp, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Agavaceae, https://www.cabi.org/isc/datasheet/48195
+784,Sansevieria trifasciata, mother-in-law’s tongue, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Agavaceae, https://www.cabi.org/isc/datasheet/48196
+785,Schismus arabicus, Arabian schismus, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/116949
+786,Setaria faberi, giant foxtail, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/49767
+787,Setaria palmifolia, palm grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/119079
+788,Setaria parviflora, knotroot foxtail, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/49768
+789,Setaria verticillata, bristly foxtail, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/49775
+790,Setaria viridis, green foxtail, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/49776
+791,Sorghum halepense, Johnson grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/50624
+792,Spartina alterniflora, smooth cordgrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/107740
+793,Spartina anglica, common cordgrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/107739
+794,Spartina densiflora, , No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/51136
+795,Spathoglottis plicata, Philippine ground orchid, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Orchidales, Orchidaceae, https://www.cabi.org/isc/datasheet/117275
+796,Sporobolus africanus, rat’s tail grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/117302
+797,Sporobolus pyramidalis, giant rat’s tail grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/23258738
+798,Sporobolus pyramidatus, whorled dropseed, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/117309
+799,Sporobolus tenuissimus, tropical dropseed, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/119840
+800,Stenotaphrum secundatum, buffalo grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/51763
+801,Syngonium podophyllum, arrowhead vine, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arales, Araceae, https://www.cabi.org/isc/datasheet/52285
+802,Taeniatherum caput-medusae, medusahead wildrye, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/117419
+803,Themeda arguens, Christmas grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/120419
+804,Themeda quadrivalvis, grader grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/53532
+805,Trachypogon spicatus, spiked crinkleawn, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/119845
+806,Tradescantia fluminensis, wandering Jew, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Commelinales, Commelinaceae, https://www.cabi.org/isc/datasheet/54389
+807,Tradescantia pallida, purple queen, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Commelinales, Commelinaceae, https://www.cabi.org/isc/datasheet/117574
+808,Tradescantia spathacea, boat lily, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Commelinales, Commelinaceae, https://www.cabi.org/isc/datasheet/119453
+809,Tradescantia zebrina, wandering jew, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Commelinales, Commelinaceae, https://www.cabi.org/isc/datasheet/110354
+810,Trimezia steyermarkii, yellow walking iris, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Iridaceae, https://www.cabi.org/isc/datasheet/119847
+811,Tripsacum dactyloides, eastern gamagrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/54621
+812,Typha angustifolia, lesser bulrush, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Typhales, Typhaceae, https://www.cabi.org/isc/datasheet/54294
+813,Typha domingensis, southern cattail, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Typhales, Typhaceae, https://www.cabi.org/isc/datasheet/54296
+814,Typha latifolia, broadleaf cattail, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Typhales, Typhaceae, https://www.cabi.org/isc/datasheet/54297
+815,Typha x glauca, hybrid cattail, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Typhales, Typhaceae, https://www.cabi.org/isc/datasheet/107745
+816,Urochloa decumbens, signal grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/9665
+817,Urochloa distachya, signal grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/9664
+818,Urochloa mutica, para grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/9667
+819,Urochloa panicoides, liverseed grass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/55773
+820,Urochloa platyphylla, broadleaf signalgrass, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/9669
+821,Urochloa reptans, sprawling signalgrass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/9671
+822,Vallisneria spiralis, eelweed, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Hydrocharitales, Hydrocharitaceae, https://www.cabi.org/isc/datasheet/56573
+823,Ventenata dubia, North Africa grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/117772
+824,Vulpia bromoides, squirreltail fescue, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/117873
+825,Vulpia myuros, annual fescue, Yes, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/117880
+826,Xanthosoma sagittifolium, elephant ear, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Arales, Araceae, https://www.cabi.org/isc/datasheet/56989
+827,Xyris complanata, yellow-eyed grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Commelinales, Xyridaceae, https://www.cabi.org/isc/datasheet/121172
+828,Yucca aloifolia, Spanish bayonet, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Liliales, Agavaceae, https://www.cabi.org/isc/datasheet/55526
+829,Zingiber montanum, cassumunar ginger, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Zingiberaceae, https://www.cabi.org/isc/datasheet/57536
+830,Zingiber officinale, ginger, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Zingiberaceae, https://www.cabi.org/isc/datasheet/57537
+831,Zingiber zerumbet, shampoo ginger, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Zingiberales, Zingiberaceae, https://www.cabi.org/isc/datasheet/57539
+832,Zoysia matrella, Manila grass, No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/57628
+833,Campylopus introflexus, , No, Eukaryota, Plantae, Streptophyta, Bryopsida, Dicranales, Dicranaceae, https://www.cabi.org/isc/datasheet/108875
+834,Microlaena stipoides," ""meadow rice grass", No, Eukaryota, Plantae, Spermatophyta, Monocotyledonae, Cyperales, Poaceae, https://www.cabi.org/isc/datasheet/114040
+835,Mimosa pudica, sensitive plant, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/34202
+836,Muntingia calabura, Jamaica cherry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Tiliaceae, https://www.cabi.org/isc/datasheet/35164
+837,Myriophyllum heterophyllum, broadleaf watermilfoil, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Haloragidales, Haloragidaceae, https://www.cabi.org/isc/datasheet/34940
+838,Nelsonia canescens, blue pussyleaf, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Acanthaceae, https://www.cabi.org/isc/datasheet/120146
+839,Nicotiana plumbaginifolia, Tex-Mex tobacco, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/109895
+840,Nicotiana tabacum, tobacco, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/36326
+841,Ocimum gratissimum, African basil, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/115839
+842,Odontonema cuspidatum, Cardinal’s guard, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Acanthaceae, https://www.cabi.org/isc/datasheet/120147
+843,Oldenlandia corymbosa, flat-top mille graines, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Rubiaceae, https://www.cabi.org/isc/datasheet/120125
+844,Opuntia engelmannii, cactus apple, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Cactaceae, https://www.cabi.org/isc/datasheet/115969
+845,Opuntia monacantha, common prickly pear, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Cactaceae, https://www.cabi.org/isc/datasheet/120172
+846,Opuntia stricta, erect prickly pear, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Cactaceae, https://www.cabi.org/isc/datasheet/37728
+847,Orobanche minor, common broomrape, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Orobanchaceae, https://www.cabi.org/isc/datasheet/37746
+848,Orobanche ramosa, branched broomrape, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Orobanchaceae, https://www.cabi.org/isc/datasheet/37747
+849,Oxalis corniculata, creeping woodsorrel, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Geraniales, Oxalidaceae, https://www.cabi.org/isc/datasheet/38154
+850,Parthenium hysterophorus, parthenium weed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/45573
+851,Passiflora edulis, passionfruit, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Passifloraceae, https://www.cabi.org/isc/datasheet/38799
+852,Passiflora foetida, red fruit passion flower, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Passifloraceae, https://www.cabi.org/isc/datasheet/38800
+853,Passiflora ligularis, sweet granadilla, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Passifloraceae, https://www.cabi.org/isc/datasheet/116173
+854,Passiflora tarminiana, banana passionfruit, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Passifloraceae, https://www.cabi.org/isc/datasheet/119428
+855,Pentas lanceolata, Egyptian starcluster, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Rubiaceae, https://www.cabi.org/isc/datasheet/120131
+856,Persicaria chinensis, Chinese knotweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygonales, Polygonaceae, https://www.cabi.org/isc/datasheet/118915
+857,Persicaria wallichii, Himalayan knotweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygonales, Polygonaceae, https://www.cabi.org/isc/datasheet/120210
+858,Phyllanthus urinaria, leafflower, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/46061
+859,Piper aduncum, spiked pepper, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Piperales, Piperaceae, https://www.cabi.org/isc/datasheet/41354
+860,Plantago coronopus, Buck's-horn plantain, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Plantaginales, Plantaginaceae, https://www.cabi.org/isc/datasheet/109678
+861,Plantago lanceolata, ribwort plantain, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Plantaginales, Plantaginaceae, https://www.cabi.org/isc/datasheet/41813
+862,Plantago major, broad-leaved plantain, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Plantaginales, Plantaginaceae, https://www.cabi.org/isc/datasheet/41814
+863,Pluchea indica, Indian camphorweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/116400
+864,Polycarpon tetraphyllum, fourleaf allseed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Caryophyllaceae, https://www.cabi.org/isc/datasheet/116427
+865,Polygonum arenastrum, common knotweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygonales, Polygonaceae, https://www.cabi.org/isc/datasheet/121176
+866,Portulaca oleracea, purslane, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Portulacaceae, https://www.cabi.org/isc/datasheet/43609
+867,Portulaca pilosa, kiss-me-quick, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Portulacaceae, https://www.cabi.org/isc/datasheet/116493
+868,Pseudogynoxys chenopodioides, Mexican flamevine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/120133
+869,Psidium cattleianum, strawberry guava, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/45135
+870,Ruellia simplex, Mexican petunia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Acanthaceae, https://www.cabi.org/isc/datasheet/110307
+871,Rumex acetosella, sheep's sorrel, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygonales, Polygonaceae, https://www.cabi.org/isc/datasheet/48056
+872,Salix cinerea, grey sallow, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Salicales, Salicaceae, https://www.cabi.org/isc/datasheet/48540
+873,Salsola kali, common saltwort, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Chenopodiaceae, https://www.cabi.org/isc/datasheet/50297
+874,Salsola paulsenii, barbwire Russian thistle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Chenopodiaceae, https://www.cabi.org/isc/datasheet/116867
+875,Salsola vermiculata, Mediterranean saltwort, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Chenopodiaceae, https://www.cabi.org/isc/datasheet/48244
+876,Securigera varia, crown vetch, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/17598
+877,Senecio glastifolius, holly-leaved senecio, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/117070
+878,Senecio jacobaea, common ragwort, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/49558
+879,Senecio madagascariensis, fireweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/49565
+880,Senecio vulgaris, , Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/49571
+881,Senna obtusifolia, sicklepod, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/49593
+882,Sesbania punicea, red sesbania, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/49464
+883,Sicyos angulatus, burcucumber, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Cucurbitaceae, https://www.cabi.org/isc/datasheet/49978
+884,Sida acuta, sida, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/49985
+885,Silene gallica, common catchfly, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Caryophyllaceae, https://www.cabi.org/isc/datasheet/117143
+886,Silene latifolia subsp. alba, white campion, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Caryophyllaceae, https://www.cabi.org/isc/datasheet/33165
+887,Sisymbrium irio, , No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Brassicaceae, https://www.cabi.org/isc/datasheet/50196
+888,Solanum elaeagnifolium, silverleaf nightshade, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/50516
+889,Solanum rostratum, prickly nightshade, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/50544
+890,Solanum sisymbriifolium, sticky nightshade, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/117241
+891,Solidago canadensis, Canadian goldenrod, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/50599
+892,Solidago gigantea, giant goldenrod, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/50575
+893,Solidago nemoralis, grey goldenrod, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/50601
+894,Solidago sempervirens, seaside goldenrod, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/117252
+895,Soliva sessilis, , No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/108899
+896,Sonchus asper, spiny sow-thistle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/110319
+897,Sonchus oleraceus, common sowthistle, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/50584
+898,Spartium junceum, Spanish broom, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/51145
+899,Spermacoce verticillata, shrubby false buttonwood, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Rubiaceae, https://www.cabi.org/isc/datasheet/9479
+900,Sphagneticola trilobata, wedelia, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/56714
+901,Spiraea chamaedryfolia, germander meadowsweet, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/121882
+902,Stachys arvensis, staggerweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Lamiaceae, https://www.cabi.org/isc/datasheet/51330
+903,Stachytarpheta cayennensis, blue snakeweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Lamiales, Verbenaceae, https://www.cabi.org/isc/datasheet/117322
+904,Striga asiatica, witch weed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Orobanchaceae, https://www.cabi.org/isc/datasheet/51786
+905,Symphyotrichum novi-belgii, New York aster, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/7557
+906,Tabebuia heterophylla, pink trumpet tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Bignoniaceae, https://www.cabi.org/isc/datasheet/52567
+907,Tagetes erecta, Mexican marigold, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/52641
+908,Tamarix ramosissima, saltcedar, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Tamaricales, Tamaricaceae, https://www.cabi.org/isc/datasheet/52503
+909,Tetragonia tetragonioides, New Zealand spinach, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Aizoaceae, https://www.cabi.org/isc/datasheet/52942
+910,Tibouchina herbacea, cane tibouchina, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Melastomataceae, https://www.cabi.org/isc/datasheet/117534
+911,Tithonia diversifolia, Mexican sunflower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/54020
+912,Tithonia rotundifolia, red sunflower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/120140
+913,Trachelospermum jasminoides, star-jasmine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Apocynaceae, https://www.cabi.org/isc/datasheet/52837
+914,Triumfetta rhomboidea, diamond burbark, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Tiliaceae, https://www.cabi.org/isc/datasheet/54903
+915,Triumfetta semitriloba, burweed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Tiliaceae, https://www.cabi.org/isc/datasheet/54905
+916,Urena sinuata, bur mallow, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/119268
+917,Urtica dioica, stinging nettle, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Urticaceae, https://www.cabi.org/isc/datasheet/55911
+918,Utricularia gibba, , No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Lentibulariaceae, https://www.cabi.org/isc/datasheet/117747
+919,Vicia villosa, hairy vetch, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/56371
+920,Viguiera dentata, sunflower goldeneye, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/120420
+921,Xanthium spinosum, bathurst burr, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/56863
+922,Youngia japonica, oriental false hawksbeard, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/117921
+923,Zinnia peruviana, Peruvian zinnia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/120142
+924,Morella faya, firetree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myricales, Myricaceae, https://www.cabi.org/isc/datasheet/35490
+925,Morinda citrifolia, Indian mulberry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Rubiaceae, https://www.cabi.org/isc/datasheet/34854
+926,Nymphoides peltata, yellow floating-heart, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Menyanthaceae, https://www.cabi.org/isc/datasheet/107746
+927,Olea europaea subsp. europaea, European olive, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Oleales, Oleaceae, https://www.cabi.org/isc/datasheet/37336
+928,Onopordum acanthium, scotch thistle, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/37456
+929,Onopordum illyricum, Illyrian thistle, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/37458
+930,Opuntia ficus-indica, prickly pear, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Cactaceae, https://www.cabi.org/isc/datasheet/37714
+931,Paederia foetida, skunkvine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Rubiaceae, https://www.cabi.org/isc/datasheet/38458
+932,Parkinsonia aculeata, Mexican palo-verde, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/38519
+933,Parthenocissus quinquefolia, Virginia creeper, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rhamnales, Vitaceae, https://www.cabi.org/isc/datasheet/44676
+934,Pastinaca sativa, parsnip, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Apiales, Apiaceae, https://www.cabi.org/isc/datasheet/39028
+935,Paulownia tomentosa, paulownia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Scrophulariaceae, https://www.cabi.org/isc/datasheet/39100
+936,Physalis peruviana, Cape gooseberry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/40713
+937,Pilosella aurantiaca, orange hawkweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/27160
+938,Pilosella caespitosa, yellow hawkweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/27161
+939,Pilosella officinarum, mouse-ear hawkweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/27162
+940,Pithecellobium dulce, Manila tamarind, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/41187
+941,Pittosporum undulatum, Australian cheesewood, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Pittosporales, Pittosporaceae, https://www.cabi.org/isc/datasheet/45705
+942,Populus alba, silver-leaf poplar, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Salicales, Salicaceae, https://www.cabi.org/isc/datasheet/43426
+943,Populus nigra, black poplar, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Salicales, Salicaceae, https://www.cabi.org/isc/datasheet/43535
+944,Prosopis glandulosa, honey mesquite, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/44439
+945,Prosopis juliflora, mesquite, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/43942
+946,Prosopis pallida, mesquite, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/44447
+947,Prosopis velutina, velvet mesquite, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/44457
+948,Prunus campanulata, Taiwan cherry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/44268
+949,Prunus serotina, black cherry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/44360
+950,Psidium guajava, guava, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/45141
+951,Pueraria montana var. lobata, kudzu, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/45903
+952,Rhamnus cathartica, buckthorn, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rhamnales, Rhamnaceae, https://www.cabi.org/isc/datasheet/46996
+953,Rhaponticum repens, Russian knapweed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/2946
+954,Rhizophora mangle, red mangrove, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rhizophorales, Rhizophoraceae, https://www.cabi.org/isc/datasheet/47509
+955,Rhus typhina, staghorn sumac, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Sapindales, Anacardiaceae, https://www.cabi.org/isc/datasheet/47400
+956,Robinia pseudoacacia, black locust, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/47698
+957,Rosa rugosa, rugosa rose, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/47835
+958,Rubus argutus, sawtooth blackberry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/118973
+959,Rubus ellipticus, yellow Himalayan raspberry, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/47994
+960,Rubus fruticosus, blackberry, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/47995
+961,Rubus niveus, Mysore raspberry, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/107939
+962,Rubus parviflorus, thimbleberry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rosales, Rosaceae, https://www.cabi.org/isc/datasheet/48013
+963,Rudbeckia laciniata, cutleaf coneflower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/48032
+964,Rumex obtusifolius, broad-leaved dock, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygonales, Polygonaceae, https://www.cabi.org/isc/datasheet/48064
+965,Salix fragilis, crack willow, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Salicales, Salicaceae, https://www.cabi.org/isc/datasheet/48577
+966,Schefflera actinophylla, umbrella tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Araliales, Araliaceae, https://www.cabi.org/isc/datasheet/48920
+967,Schinus terebinthifolius, Brazilian pepper tree, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Sapindales, Anacardiaceae, https://www.cabi.org/isc/datasheet/49031
+968,Solanum viarum, tropical soda apple, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/50562
+969,Spathodea campanulata, African tulip tree, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Bignoniaceae, https://www.cabi.org/isc/datasheet/51139
+970,Syzygium jambos, rose apple, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Myrtaceae, https://www.cabi.org/isc/datasheet/52443
+971,Tamarix aphylla, athel, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Tamaricales, Tamaricaceae, https://www.cabi.org/isc/datasheet/52483
+972,Tamarix chinensis, five-stamen tamarisk, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Tamaricales, Tamaricaceae, https://www.cabi.org/isc/datasheet/52487
+973,Tamarix parviflora, small-flower tamarisk, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Tamaricales, Tamaricaceae, https://www.cabi.org/isc/datasheet/52499
+974,Tecoma stans, yellow bells, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Bignoniaceae, https://www.cabi.org/isc/datasheet/52951
+975,Tephrosia candida, white tephrosia, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/53243
+976,Trapa natans, waterchestnut, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Myrtales, Trapaceae, https://www.cabi.org/isc/datasheet/55040
+977,Triadica sebifera, Chinese tallow tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Euphorbiales, Euphorbiaceae, https://www.cabi.org/isc/datasheet/48351
+978,Ulex europaeus, gorse, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/55561
+979,Vincetoxicum nigrum, black swallowwort, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Asclepiadaceae, https://www.cabi.org/isc/datasheet/55103
+980,Vincetoxicum rossicum, European swallowwort, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Asclepiadaceae, https://www.cabi.org/isc/datasheet/55104
+981,Ziziphus mauritiana, jujube, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Rhamnales, Rhamnaceae, https://www.cabi.org/isc/datasheet/57556
+982,Mirabilis jalapa, four o'clock flower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Nyctaginaceae, https://www.cabi.org/isc/datasheet/34254
+983,Myriophyllum aquaticum, parrot's feather, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Haloragidales, Haloragidaceae, https://www.cabi.org/isc/datasheet/34939
+984,Myriophyllum spicatum, spiked watermilfoil, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Haloragidales, Haloragidaceae, https://www.cabi.org/isc/datasheet/34941
+985,Nymphaea lotus, white Egyptian lotus, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Nymphaeales, Nymphaeaceae, https://www.cabi.org/isc/datasheet/115821
+986,Petiveria alliacea, guinea hen weed, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Phytolaccaceae, https://www.cabi.org/isc/datasheet/70236
+987,Physalis angulata, cutleaf groundcherry, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/40711
+988,Polygonum persicaria, redshank, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Polygonales, Polygonaceae, https://www.cabi.org/isc/datasheet/42691
+989,Pseudelephantopus spicatus, false elephant’s foot, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/116565
+990,Senna hirsuta, hairy senna, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/28967123
+991,Senna occidentalis, coffee senna, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/11450
+992,Senna septemtrionalis, smooth senna, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/49597
+993,Sesbania sericea, silky sesban, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/119439
+994,Sida linifolia, flaxleaf fanpetals, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/119839
+995,Taraxacum officinale complex, dandelion, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Asterales, Asteraceae, https://www.cabi.org/isc/datasheet/52773
+996,Tribulus terrestris, puncture vine, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Geraniales, Zygophyllaceae, https://www.cabi.org/isc/datasheet/54447
+997,Urena lobata, caesar weed, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Malvaceae, https://www.cabi.org/isc/datasheet/55771
+998,Momordica balsamina, common balsam apple, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Cucurbitaceae, https://www.cabi.org/isc/datasheet/34677
+999,Moringa oleifera, horse radish tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Capparidales, Moringaceae, https://www.cabi.org/isc/datasheet/34868
+1000,Morus nigra, black mulberry, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Urticales, Moraceae, https://www.cabi.org/isc/datasheet/34830
+1001,Mucuna pruriens, velvet bean, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/35134
+1002,Mussaenda philippica, Queen of Philippines, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Gentianales, Rubiaceae, https://www.cabi.org/isc/datasheet/35195
+1003,Myriophyllum pinnatum, cutleaf watermilfoil, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Haloragidales, Haloragidaceae, https://www.cabi.org/isc/datasheet/119830
+1004,Nandina domestica, Nandina, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Ranunculales, Berberidaceae, https://www.cabi.org/isc/datasheet/35692
+1005,Neonotonia wightii, perennial soybean, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/110283
+1006,Nicotiana glauca, tree tobacco, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Solanaceae, https://www.cabi.org/isc/datasheet/36324
+1007,Nopalea cochenillifera, cochineal cactus, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Caryophyllales, Cactaceae, https://www.cabi.org/isc/datasheet/119852
+1008,Odontonema callistachyum, purple firespike, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Acanthaceae, https://www.cabi.org/isc/datasheet/120399
+1009,Olea europaea subsp. cuspidata, wild olive, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Oleales, Oleaceae, https://www.cabi.org/isc/datasheet/37331
+1010,Pachira aquatica, pachira nut, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Malvales, Bombacaceae, https://www.cabi.org/isc/datasheet/39234
+1011,Parmentiera aculeata, cucumber tree, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Scrophulariales, Bignoniaceae, https://www.cabi.org/isc/datasheet/86635881
+1012,Passiflora caerulea, blue passionflower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Passifloraceae, https://www.cabi.org/isc/datasheet/116172
+1013,Passiflora suberosa, corkystem passionflower, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Violales, Passifloraceae, https://www.cabi.org/isc/datasheet/38805
+1014,Pueraria phaseoloides, tropical kudzu, Yes, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Fabales, Fabaceae, https://www.cabi.org/isc/datasheet/45906
+1015,Turbina corymbosa, Christmas vine, No, Eukaryota, Plantae, Spermatophyta, Dicotyledonae, Solanales, Convolvulaceae, https://www.cabi.org/isc/datasheet/117701
