@@ -1,0 +1,42 @@
+.main-wrapper{
+    height:100%;
+    min-height: 100%;
+    padding:20px 20px;
+}
+
+body {
+    background-image: url(../cover_photos/alfred-schrock-wfNm2fIgapI-unsplash.jpg); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    height:100%;
+}
+
+html, body
+{
+    height: 100%;
+}
+
+.description{
+    color:white;
+}
+
+.plant-finder{
+    max-width:25%;
+    position:relative;
+    top:60%;
+    left:5%;
+    background-color:rgb(94,154,92, 0.7);
+    padding:5px 5px;
+    border-radius:15px;
+    border: 2px solid black;
+}
+
+.form-label{
+    color:black;
+    font-weight:500;
+}
