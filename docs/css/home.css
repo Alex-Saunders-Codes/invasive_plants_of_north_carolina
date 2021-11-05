@@ -26,7 +26,8 @@ html, body
 }
 
 .plant-finder{
-    max-width:25%;
+    width:25%;
+    max-width:138px;
     position:relative;
     top:60%;
     left:5%;

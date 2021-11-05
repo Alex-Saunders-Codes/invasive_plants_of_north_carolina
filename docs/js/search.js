@@ -1,5 +1,5 @@
 
-plantSubmit = document.getElementById();
+plantSubmit = document.getElementById('plantSubmit');
 
 
 
