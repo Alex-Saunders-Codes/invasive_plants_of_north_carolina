@@ -1,5 +1,5 @@
 // Create a map object.
-var myMap = L.map("map", {
+var myMap = L.map("map-id", {
   center: [37.09, -95.71],
   zoom: 1
 });

@@ -1,16 +1,4 @@
-.left{
-    max-width:15%;
-    position:relative;
-    top:0px;
-    left:-15px;
-    background-color:rgba(60, 117, 58);
-    padding:5px 5px 5px 20px;
-    border-radius:15px;
-    border: 2px solid black;
-    height:100%;
-    display:flex;
-    flex-direction: column;
-}
+
 
 #plant-name {
     order:1;
@@ -39,13 +27,20 @@
 
 .plant-bio-card{
     max-width:300px;
-    position:relative;
-    top:3%;
+    float:right;
+    padding:20px 20px;
     opacity:0.5;
+    z-index:1;
 }
 
 #wikipedia {
 
+}
+
+#map-id{
+    display:inline-block;
+    width:100%;
+    z-index:-2;
 }
 .main-wrapper{
     height:100%;
@@ -53,6 +48,25 @@
     flex-direction:row;
 }
 
+.main{
+    width:100%;
+    z-index:-1;
+}
+
+.left{
+    max-width:20%;
+    position:relative;
+    top:0px;
+    left:-15px;
+    margin-right:-25px;
+    background-color:rgba(60, 117, 58);
+    padding:5px 5px 5px 20px;
+    border-radius:15px;
+    border: 2px solid black;
+    height:100%;
+    display:flex;
+    flex-direction: column;
+}
 html, body
 {
     height: 100%;
