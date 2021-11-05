@@ -27,10 +27,11 @@ html, body
 
 .plant-finder{
     width:25%;
+    color:white;
     max-width:357px;
     position:relative;
     top:60%;
-    left:5%;
+    left:0px;
     background-color:rgb(94,154,92, 0.7);
     padding:5px 5px;
     border-radius:15px;

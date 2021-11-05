@@ -3,15 +3,54 @@
     position:relative;
     top:0px;
     left:-15px;
-    background-color:rgb(94,154,92, 0.7);
+    background-color:rgba(60, 117, 58);
     padding:5px 5px 5px 20px;
     border-radius:15px;
     border: 2px solid black;
     height:100%;
+    display:flex;
+    flex-direction: column;
 }
 
+#plant-name {
+    order:1;
+    font-size:large;
+    font-weight:500;
+}
+
+#plant-bio {
+    font-weight:500;
+}
+
+#risk-score{
+    order:2;
+}
+
+.another-plant{
+    order:3;
+    text-decoration:none;
+    color:black;
+}
+
+.another-plant a{
+    text-decoration:none;
+    color:black;
+}   
+
+.plant-bio-card{
+    max-width:300px;
+    position:relative;
+    top:3%;
+    opacity:0.5;
+}
+
+#wikipedia {
+
+}
 .main-wrapper{
-    height:100%
+    height:100%;
+    display:flex;
+    flex-direction:row;
 }
 
 html, body
